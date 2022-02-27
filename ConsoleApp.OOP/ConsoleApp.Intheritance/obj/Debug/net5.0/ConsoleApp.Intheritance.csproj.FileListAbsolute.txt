@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.exe
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ref\ConsoleApp.Intheritance.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\bin\Debug\net5.0\ConsoleApp.Intheritance.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ref\ConsoleApp.Intheritance.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.Intheritance\obj\Debug\net5.0\ConsoleApp.Intheritance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.exe
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ref\ConsoleApp.OOP.Abstraction.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\bin\Debug\net5.0\ConsoleApp.OOP.Abstraction.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ref\ConsoleApp.OOP.Abstraction.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP.Abstraction\obj\Debug\net5.0\ConsoleApp.OOP.Abstraction.genruntimeconfig.cache

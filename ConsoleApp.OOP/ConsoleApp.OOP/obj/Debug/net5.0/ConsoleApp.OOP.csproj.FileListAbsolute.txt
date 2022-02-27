@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.exe
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ref\ConsoleApp.OOP.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\bin\Debug\net5.0\ConsoleApp.OOP.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ref\ConsoleApp.OOP.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.OOP\ConsoleApp.OOP\obj\Debug\net5.0\ConsoleApp.OOP.genruntimeconfig.cache
